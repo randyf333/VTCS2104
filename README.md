@@ -2,7 +2,7 @@
 All coding projects done in CS2104 (Intro to Problem Solving in Computer Science)
 
 
-****From the VT CS Department****\
+*From the VT CS Department*
 
 This course introduces the student to a broad range of heuristics for solving problems in a range of settings. Emphasis on problem-solving techniques that aid programmers and computer scientists. Heuristics for solving problems ''in the small'' (classical math and word problems), generating potential solutions to ''real-life'' problems encountered in the profession, and problem solving in teams.
 
